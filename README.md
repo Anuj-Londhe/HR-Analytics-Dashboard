@@ -29,7 +29,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 ---
 
 ### 📎 Sample Insights Screenshot
-https://github.com/Anuj-Londhe/HR-Analytics-Dashboard/blob/main/Hr%20Analytic%20Dashboard%20Screenshot.png?raw=true
+https://github.com/Anuj-Londhe/HR-Analytics-Dashboard/blob/main/Hr%20Analytic%20Dashboard%20Screenshot.png
 
 ---
 
