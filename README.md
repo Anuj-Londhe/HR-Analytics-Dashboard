@@ -29,7 +29,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 ---
 
 ### 📎 Sample Insights Screenshot
-
+Hr Analytic Dashboard Screenshot.png
 
 ---
 
