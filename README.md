@@ -29,11 +29,11 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 ---
 
 ### 📎 Sample Insights Screenshot
-*(You can upload a PNG/JPG image of your dashboard here)*
+
 
 ---
 
 ### 📜 Author
-**Asterion**  
+**Anuj Londhe**  
 Computer Engineering Student | Data Visualization Enthusiast  
-📧 [your email or LinkedIn link here]
+📧 anujlondhe07@gmail.com
